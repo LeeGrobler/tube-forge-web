@@ -34,4 +34,4 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 ## License
 
-This project is licensed under the TubeForge License. See the LICENSE file for details.
+This project is licensed under the TubeForge License. See the [LICENSE](LICENSE) file for details.
