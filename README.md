@@ -28,6 +28,10 @@ TubeForge is a customizable YouTube feed application that allows users to filter
    npm run dev
    ```
 
+## Roadmap
+
+To stay up to date with the development progress and planned features, check out the [https://trello.com/b/D4V7U2Bz/tubeforge](TubeForge Roadmap) on Trello.
+
 ## Contributing
 
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
