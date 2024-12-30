@@ -30,7 +30,7 @@ TubeForge is a customizable YouTube feed application that allows users to filter
 
 ## Roadmap
 
-To stay up to date with the development progress and planned features, check out the [https://trello.com/b/D4V7U2Bz/tubeforge](TubeForge Roadmap) on Trello.
+To stay up to date with the development progress and planned features, check out the [TubeForge Roadmap](https://trello.com/b/D4V7U2Bz/tubeforge) on Trello.
 
 ## Contributing
 
